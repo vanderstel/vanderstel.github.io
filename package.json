@@ -1,0 +1,28 @@
+{
+  "name": "postonal-dict",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "webpack": "webpack -w"
+  },
+  "author": "Joseph VanderStel",
+  "license": "ISC",
+  "devDependencies": {
+    "babel-cli": "^6.18.0",
+    "babel-core": "^6.25.0",
+    "babel-loader": "^7.1.1",
+    "babel-preset-env": "^1.6.0",
+    "babel-preset-latest": "^6.16.0",
+    "babel-preset-react": "^6.24.1",
+    "babel-preset-stage-0": "^6.16.0",
+    "css-loader": "^0.28.7",
+    "file-loader": "^1.1.5",
+    "jquery": "^3.2.1",
+    "style-loader": "^0.19.0",
+    "url-loader": "^0.6.2",
+    "vexflow": "^1.2.84",
+    "webpack": "^3.1.0",
+    "webpack-dev-server": "^1.16.2"
+  }
+}

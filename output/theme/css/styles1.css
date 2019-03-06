@@ -1,0 +1,310 @@
+/*
+
+Inspiration:
+
+https://blackrockdigital.github.io/startbootstrap-landing-page/
+https://github.com/BlackrockDigital/startbootstrap-landing-page/blob/master/index.html
+https://github.com/BlackrockDigital/startbootstrap-landing-page/blob/master/css/landing-page.css
+
+*/
+
+
+
+h3, h4, h5, h6, p, a, li, label {
+	font-family: 'Open Sans';
+}
+
+h1, h1 > a, h2 {
+  font-family: 'Alegreya';
+}
+
+p {
+  font-size: 20px;
+}
+
+div.project-summary > p {
+  font-size: 17px !important;
+}
+
+h1.site-title > a {
+   z-index: 5000;
+
+}
+
+
+h1, h2, h3, h1 > a, a {
+  color: #40D0AB; /*#20A583; #05D6C4 */
+}
+
+h1, h1 > a:hover, a:hover, li.active > a {
+  color: #13644F !important;
+}
+
+li.active > i {
+  display: inline !important;
+}
+
+.subtitle {
+  margin-top: 2em;
+  color: #AAA;
+  font-family: 'Lato';
+  font-weight: 300;
+  font-size: 1.6em;
+}
+
+.fa-ul {
+  margin: 22px;
+}
+
+h4, h5, h6, p, span, label {
+  color: #455E62;
+}
+
+h1 > a {
+  font-size: 35px;
+}
+
+.mobile-home-link {
+  padding-right: 25px;
+}
+
+.mobile-home-link > a {
+  color: #74DFC3;
+}
+
+.showcase .showcase-text {
+  padding: 1rem;
+}
+
+.nav-item {
+  margin-top: 30px;
+  font-size: 20px;
+}
+
+.showcase-img {
+  min-height: 30rem;
+  background-size: cover;
+  background-image: url('../images/smiling.jpeg');
+  background-repeat: no-repeat;
+  position: relative;
+}
+
+.header {
+   width:100%;
+   position: relative;
+   background: no-repeat center center;
+   background-size: cover;
+   /*opacity: 0.5;*/
+   margin: 0 auto;
+   padding-top: 60px;
+   padding-bottom: 50px;
+}
+
+
+.black-overlay {
+  position: absolute;
+  background-color: rgba(0, 0, 0, 0.4);
+  height: 100%;
+  width: 100%;
+  top: 0;
+  left: 0;
+}
+
+.dark-overlay {
+  position: absolute;
+  background-color: rgba(45, 55, 57, 0.8);
+  height: 100%;
+  width: 100%;
+  top: 0;
+  left: 0;
+}
+
+.light-overlay {
+  position: absolute;
+  background-color: rgba(45, 55, 57, 0.3);
+  height: 100%;
+  width: 100%;
+  top: 0;
+  left: 0;
+}
+
+h2 {
+  font-size: 45px;
+}
+
+h3 {
+  margin-top: 45px;
+  font-size: 23px;
+}
+
+h4 {
+  font-size: 19px;
+  margin-left: 30px;
+  margin-top: 35px;
+}
+
+h5 {
+  font-size: 17px;
+  margin-left: 60px;
+  font-style: italic;
+  margin-top: 15px;
+}
+
+h6 {
+  font-size: 14px;
+  margin-left: 60px;
+  color: #AAA !important;
+}
+
+.category-name {
+  color: #8B9DA1;
+}
+
+.social-bar {
+  margin-left: 60px !important;
+  color: #20A583;
+}
+
+.divider-vertical {
+  border-top: 5px solid #F8B2A2;
+  padding-bottom: 15px;
+  margin-top: 15px;
+  width: 50%;
+}
+
+.technical {
+  display: none;
+}
+
+a[id="technical"].active, a[id="academic"].active {
+  text-decoration: underline;
+  color: #13644F;
+}
+
+
+.divider-horizontal {
+  border-left: 5px solid #F8B2A2;
+  margin-left: 15px;
+  margin-right: 15px;
+}
+
+
+.center-img {
+  height: 100px;
+}
+
+.content > p {
+  margin-top: 35px;
+}
+.na-li {
+  padding-left: 0;
+    font-size: 20px;
+}
+
+
+
+
+/* Margin and padding
+-------------------------------------------------- */
+.xlg-margin-bottom {
+  margin-bottom: 100px;
+}
+
+.lg-margin-bottom {
+  margin-bottom: 60px;
+}
+
+.md-margin-bottom {
+  margin-bottom: 40px;
+}
+
+.lg-margin-top {
+  margin-top: 60px;
+}
+
+.md-margin-top {
+  margin-top: 40px;
+}
+
+.sm-margin-top {
+  margin-top: 20px;
+}
+
+.lg-margin-sides {
+  margin: 0 60px;
+}
+
+.md-margin-sides {
+  margin: 0 40px;
+}
+
+.sm-margin-sides {
+  margin: 0 20px;
+}
+
+.sm-margin-bottom {
+  margin-bottom: 20px;
+}
+
+.sm-margin-top {
+  margin-top: 20px;
+}
+
+
+@media screen and (min-width: 0) {
+  .page-title {
+    /*text-align: center !important;*/
+    font-family: 'Open Sans' !important;
+    font-weight: 300;
+    color: white;
+  }
+
+  .center-nav {
+    list-style-type: none;
+  }
+
+  .mobile-text-buffer {
+    margin-top:60%;
+  }
+}
+/* just in case you want to change the h1 size for small screens in the future */
+@media screen and (min-width: 576px) {
+  .center-nav {
+    position: relative;
+    width: 80px;
+    list-style-type: none;
+  }
+
+  .mobile-text-buffer {
+    margin-top:30%;
+  }
+}
+
+/* Medium devices (tablets, 786px and up) */
+@media screen and (min-width: 768px) {
+  .sidebar {
+  position: fixed;
+  top: 0;
+  left: 0;
+  z-index: 2000;
+  overflow-x: visible;
+  overflow-y: hidden; /* Scrollable contents if viewport is shorter than content. */
+
+}
+
+
+/* Large devices (desktops, 992px and up) */
+@media screen and (min-width: 992px) {
+/*  h1.site-title {
+     padding-left: 10px;
+     border-left: 10px solid #F8B2A2;
+  }*/
+  .index-top-margin {
+    margin-top: 40px;
+  }
+}
+
+/* Extra large devices (large desktops, 1200px and up) */
+@media screen and (min-width: 1200px) {
+
+}

@@ -1,0 +1,24 @@
+{% extends "base.html" %}
+{% block title %}- {{ page.title }}{% endblock %}
+
+{% block header %}
+<div class="row header"  style="background-image: url('/theme/images/esm3.jpg')">
+    <div class="dark-overlay"></div>
+    <div class="col text-center">
+		{% if page.category %}<a href="/projects" class="category-name">{{ page.category }}</a>{% endif %}<h2 class="page-title"> {{ page.title }}</h2>
+	</div>
+</div>
+{% endblock %}
+
+{% block content %}
+
+{% for tag in page.tags %}
+<span class="badge badge-primary">{{ tag }}</span>
+{% endfor %}
+
+<div class="content">
+{{ page.content }}
+</div>	    
+{% endblock %}
+
+<!-- <button class="btn btn-sm btn-primary">Download <i class="fa fa-download"></i></button> -->

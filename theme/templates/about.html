@@ -1,0 +1,17 @@
+{% extends "base.html" %}
+{% block title %}- {{ page.title }}{% endblock %}
+
+{% block header %}
+<div class="row header" style="background-image: url('/theme/images/esm5.jpg')">
+    <div class="dark-overlay"></div>
+    <div class="col text-center">
+		<h2 class="page-title">{{ page.title }}</h2>
+	</div>
+</div>
+{% endblock %}
+
+{% block content %}
+<div class="content">
+{{ page.content }}
+</div>
+{% endblock %}

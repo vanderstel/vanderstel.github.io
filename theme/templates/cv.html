@@ -1,0 +1,74 @@
+{% extends "base.html" %}
+{% block title %}- {{ page.title }}{% endblock %}
+
+{% block header %}
+<div class="row header" style="background-image: url('/theme/images/esm1.jpg')">
+    <div class="dark-overlay"></div>
+    <div class="col text-center">
+        <h2 class="page-title">{{ page.title }}</h2>
+    </div>
+</div>
+{% endblock %}
+
+{% block content %}     
+<div class="text-center">
+    <a href="#" id="academic">Academic</a> &nbsp;&nbsp;<i style="color:#F8B2A2;">|</i>&nbsp;&nbsp; <a href="#" id="technical">Technical</a>
+</div>
+
+<div class="lg-margin-top content">
+{{ page.content }}
+</div>     
+
+<div class="lg-margin-top technical">
+    <h3>Experience</h3>
+        <h4>Eastman School of Music</h4>
+            <h5>Computer lab manager</h5>
+                <h6>I coordinate computer lab reservation, administer the departmental web server, and perform routine security checks and updates on lab computers. (2016-)</h6>
+        <h4>Pre-College Curriculum, University of Rochester</h4>
+            <h5>Instructor, "Web Developer Bootcamp"</h5>
+                <h6>I teach a 2-week intensive summer bootcamp that gets students up and running with HTML, CSS, JavaScript, Python/Flask, and SQLAlchemy. (2018)</h6>
+        <h4>Institute for Music Leadership, Eastman School of Music</h4>
+            <h5>Instructor, "Building a Web Presence"</h5>
+                <h6>I teach a course that equips upper-level undergraduates and graduate students with practical knowledge of web design and branding. (2017-)</h6>
+        <h4>Self-employed</h4>
+            <h5>Freelance web developer</h5>
+                <h6>I help individual clients refine a vision for their web presence, and then work closely with them to realize that vision</h6>
+    
+    <h3>Skills</h3>
+        <h4>General</h4>
+            <h5>SSH</h5>
+            <h5>HTTP/HTTPS</h5>
+            <h5>Git</h5>
+            <h5>Encryption</h5>
+            <h5>Bash</h5>
+            <h5>Ajax</h5>
+            <h5>C/C++</h5>
+    
+        <h4>Front end</h4>
+            <h5>HTML5</h5>
+            <h5>CSS/CSS3</h5>
+                <h6>Twitter Bootstrap</h6>
+                <h6>SASS</h6>
+            <h5>JavaScript</h5>
+                <h6>jQuery</h6>
+                <h6>ES6</h6>
+                <h6>Vexflow</h6>
+            <h5>Webpack</h5>
+
+        <h4>Back end</h4>
+            <h5>Python</h5>
+                <h6>Flask</h6>
+                <h6>Django</h6>
+                <h6>SQLAlchemy</h6>
+                <h6>Pelican</h6>
+            <h5>Testing</h5>
+                <h6>Pytest</h6>
+            <h5>RESTful APIs</h5>
+            <h5>SQL</h5>
+
+        <h4>DevOps</h4>
+            <h5>AWS</h5>
+            <h5>Docker</h5>
+</div>
+{% endblock %}
+
