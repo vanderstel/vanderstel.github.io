@@ -1,7 +1,7 @@
 #!/usr/bin/env python
 # -*- coding: utf-8 -*- #
 from __future__ import unicode_literals
-import os 
+import os
 
 # out_path = '{0}/output/'.format(os.path.dirname(os.path.dirname(__name__)))
 
@@ -10,7 +10,7 @@ SITENAME = u'Joseph VanderStel'
 SITEURL = ''
 
 PATH = 'content'
-# OUTPUT_PATH = out_path
+OUTPUT_PATH = 'output'
 PAGE_PATHS = ['pages']
 
 TIMEZONE = 'America/New_York'
@@ -20,39 +20,39 @@ THEME = 'theme'
 
 DEFAULT_PAGINATION = 10
 
-DELETE_OUTPUT_DIRECTORY = False
+DELETE_OUTPUT_DIRECTORY = True
 DISPLAY_PAGES_ON_MENU = False
 
 MENUITEMS = [
 	(
-		'About', 
-		'/about', 
+		'About',
+		'/about',
 		'fa-question',
 		os.path.abspath('content/pages/about.md')),
 	(
-		'CV', 
-		'/cv', 
+		'CV',
+		'/cv',
 		'fa-pencil',
 		os.path.abspath('content/pages/cv.md')),
 	(
-		'Projects', 
-		'/projects', 
+		'Projects',
+		'/projects',
 		'fa-wrench',
 		os.path.abspath('content/pages/projects/projects.md')),
 	# (
-	# 	'Maxims', 
-	# 	'/maxims', 
+	# 	'Maxims',
+	# 	'/maxims',
 	# 	'fa-lightbulb-o',
 	# 	os.path.abspath('content/pages/maxims.md')),
 	(
-		'Contact', 
-		'/contact', 
+		'Contact',
+		'/contact',
 		'fa-envelope',
 		os.path.abspath('content/pages/contact.md'))
 ]
 
 TEMPLATE_PAGES = {
-	'projects/post_tonal_melodic_dictation.html': 
+	'projects/post_tonal_melodic_dictation.html':
 	'projects/post-tonal-melodic-dictation/index.html',
 
 	'projects/post_tonal_trichordal_dictation.html':
@@ -66,7 +66,7 @@ TEMPLATE_PAGES = {
 
 	'projects/chpt6.html':
 	'projects/post-tonal-melodic-dictation/chpt6/index.html',
-	
+
 	'projects/editor.html':
 	'projects/euphony/demo/index.html'
 }

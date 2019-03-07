@@ -12,11 +12,11 @@ from pelicanconf import *
 
 SITEURL = ''
 RELATIVE_URLS = False
+#
+FEED_ALL_ATOM = None
+CATEGORY_FEED_ATOM = None
 
-# FEED_ALL_ATOM = 'feeds/all.atom.xml'
-# CATEGORY_FEED_A   TOM = 'feeds/%s.atom.xml'
-
-DELETE_OUTPUT_DIRECTORY = True
+# DELETE_OUTPUT_DIRECTORY = False
 
 # Following items are often useful when publishing
 
