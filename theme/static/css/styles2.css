@@ -31,6 +31,9 @@ h1.site-title > a {
 
 }
 
+.filter {
+	cursor: pointer;
+}
 
 h1, h2, h3, h1 > a, a {
   color: #40D0AB; /*#20A583; #05D6C4 */

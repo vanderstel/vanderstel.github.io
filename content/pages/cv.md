@@ -23,6 +23,17 @@ Template: cv
 ######2009-2013, East Lansing, MI
 
 
+###Publications
+
+####"In their own words: Analyzing the extents and origins of absolute pitch"
+
+##### - 2nd author with Elizabeth West Marvin, and Joseph Chi-Sing Siu
+
+##### Psychology of Music
+
+###### 2019 (forthcoming)
+
+
 ###Conference talks
 
 ####"Part-Invariant Model for Music Generation and Harmonization"
@@ -70,18 +81,6 @@ Template: cv
 #####Biennial Meeting of the Society for Music Perception and Cognition
 
 ######August 2013, Toronto, ON
-
-####"French Composers, Harlem, and 'le jazz authentique'"
-
-#####National Conference on Undergraduate Research
-
-######March 2012, Ogden, UT
-
-####"The Submediant Complex in Schumann's Waldszenen, Op. 82"
-
-#####National Conference on Undergraduate Research
-
-######March 2011, Ithaca, NY
 
 
 ###Teaching

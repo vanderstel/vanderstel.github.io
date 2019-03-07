@@ -2,4 +2,4 @@ Title: Contact
 Slug: contact
 Template: contact
 
-Let's get in touch. 
+If you have an app idea, or a question about my work, or you're interested in a consultation or collaboration, I'm all ears.
