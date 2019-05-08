@@ -1,2 +1,5 @@
-3/6/18
-- ISSUE: the output dir is the repo, but everytime I recreate the site that repo gets overriden!!
+Instructions for generating site
+
+The site consists of two git branches: source and master. This is the source branch. The master branch (git checkout master) is the generated output that is used by GitHub Pages.
+
+The source branch can be committed in the usual way. The master branch can only be committed from the source branch. In the source branch, type make github to automatically generate the site and push the result to GitHub. 

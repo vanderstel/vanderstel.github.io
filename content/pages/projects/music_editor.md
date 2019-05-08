@@ -14,9 +14,9 @@ With the goal in mind of commercializing this software for use in music schools,
 
 ####Instructor dashboard
 
-#####Instructors can manage their course from this view, including the creation of modules, exercises, and realtime grade statistics. 
+#####Instructors can manage their course from this view, including the creation of modules, exercises, and realtime grade statistics.
 
-<img src="/theme/images/instructor_dashboard.JPG" 
+<img src="/theme/images/instructor_dashboard.JPG"
     alt="instructor dashboard" width="100%" style="margin-bottom:40px" />
 
 
@@ -24,7 +24,7 @@ With the goal in mind of commercializing this software for use in music schools,
 
 #####Instructors can create, edit, save, and publish exercises from *Euphony's* interactive music notation editor. Several intuitive keyboard shortcuts for note and Roman numeral input make content creation a snap.
 
-<img src="/theme/images/instructor_editor.JPG" 
+<img src="/theme/images/instructor_editor.JPG"
     alt="instructor dashboard" width="100%" style="margin-bottom:40px" />
 
 
@@ -32,7 +32,7 @@ With the goal in mind of commercializing this software for use in music schools,
 
 #####Instructors can fully customize the kind of feedback that students receive.
 
-<img src="/theme/images/settings.JPG" 
+<img src="/theme/images/settings.JPG"
     alt="instructor dashboard" width="100%" style="margin-bottom:40px" />
 
 
@@ -41,17 +41,9 @@ With the goal in mind of commercializing this software for use in music schools,
 
 #####Students receive instant feedback as they work through an exercise.
 
-<img src="/theme/images/errors.JPG" 
+<img src="/theme/images/errors.JPG"
     alt="instructor dashboard" width="100%" style="margin-bottom:40px" />
 
-
-####Student progress
-
-#####Students can view their progress on exercises from their course dashboard.
-
-<img src="/theme/images/student_dashboard.JPG" 
-    alt="instructor dashboard" width="100%" style="margin-bottom:40px" />
 
 
 *[Contact me](/contact) if you'd like to try out a live demo.*
-
