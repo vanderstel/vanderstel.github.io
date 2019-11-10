@@ -48,7 +48,7 @@ Template: cv
 
 #####Eastman Leadership Academy
 
-######June 2018, Rochester, NY
+######June 2018, 2019, Rochester, NY
 
 ####"Effects of Melody and Harmony on Contrastive Valence"
 
@@ -87,9 +87,13 @@ Template: cv
 
 ####Music theory department, Eastman School of Music
 
-#####Graduate Review Theory I-II (TH117-118)
+#####Model Composition and Tonal Analysis I-II (Intensive, TH101i-102i)
 
-######Graduate instructor, 2018–2019
+######Graduate instructor, 2019-2020
+
+#####Graduate Review Theory I-II (TH117)
+
+######Graduate instructor, 2018
 
 #####Model Composition and Tonal Analysis III-IV (TH201-202)
 
