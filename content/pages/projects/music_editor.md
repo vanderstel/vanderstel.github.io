@@ -4,8 +4,9 @@ Slug: projects/euphony
 Category: Projects
 Summary: An online learning platform for music theory that provides realtime feedback on interactive part-writing exercises.
 
-I am currently developing a software-as-service application for music theory learning, titled *Euphony*. The platform includes a browser-based music notation editor designed for SATB part writing, that provides realtime feedback on errors such as parallel 5ths.
+I am currently developing a browser-based music notation editor titled *Euphony*, which is designed for SATB part writing. Users receive realtime feedback on voice-leading errors such as parallel 5ths.
 
+[Try out a demo.](www.euphonytheory.com/demo)
 
 ###Screenshots
 
@@ -41,7 +42,3 @@ I am currently developing a software-as-service application for music theory lea
 
 <img src="/theme/images/errors.jpg"
     alt="instructor dashboard" width="100%" style="margin-bottom:40px" />
-
-
-
-*[Contact me](/contact) if you'd like to try out a live demo.*
