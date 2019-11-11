@@ -19,6 +19,7 @@ LOAD_CONTENT_CACHE = False
 PAGE_URL = '{slug}'
 PAGE_SAVE_AS = '{slug}/index.html'
 
+STATIC_PATHS = ['pdfs']
 # Uncomment following line if you want document-relative URLs when developing
 #RELATIVE_URLS = True
 

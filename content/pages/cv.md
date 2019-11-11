@@ -29,9 +29,9 @@ Template: cv
 
 ##### - 2nd author with Elizabeth West Marvin, and Joseph Chi-Sing Siu
 
-##### Psychology of Music
+##### Psychology of Music ([link](http://bit.do/ap_music))
 
-###### 2019 (forthcoming)
+###### 2019
 
 
 ###Conference talks
@@ -40,11 +40,12 @@ Template: cv
 
 ##### – 3rd author with Yujia Yan, Zhiyao Duan, and Ethan Lustig
 
-#####Annual Meeting of the International Society for Music Information Retrieval
+#####Annual Meeting of the International Society for Music Information Retrieval ([link](http://bit.do/music_model))
+
 
 ######August 2018, Paris, France
 
-####"Building a Web Presence in 2018: a Musician's Guide"
+####"Building a Web Presence"
 
 #####Eastman Leadership Academy
 

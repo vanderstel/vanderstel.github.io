@@ -4,7 +4,7 @@ Template: about
 
 I am a music theorist, web developer, and educator based in Rochester, New York.
 
-As a music theorist, I am currently writing a [dissertation on syncopation in 20th-century American popular music](/projects/dissertation), with my advisor [David Temperley](http://davidtemperley.com/) at the [Eastman School of Music](https://www.esm.rochester.edu/). I have published in [Psychology of Music](https://journals.sagepub.com/doi/full/10.1177/0305735619832959) (2019), and presented at the Society for Music Perception and Cognition (2013, 2015, 2017) as well as the International Society for Music Information Retrieval (2018).
+As a music theorist, I am currently writing a [dissertation on syncopation in 20th-century American popular music](/projects/dissertation), with my advisor [David Temperley](http://davidtemperley.com/) at the [Eastman School of Music](https://www.esm.rochester.edu/). I have published in [Psychology of Music](http://bit.do/ap_music) (2019), and presented at the Society for Music Perception and Cognition (2013, 2015, 2017) as well as the International Society for Music Information Retrieval (2018).
 
 As a web developer, I am primarily interested in music notation software that aids music learning. I am developing a [notation editor](/projects/euphony) that provides users with real-time feedback on part writing and counterpoint exercises. Among other apps, I developed the software for [MusEdConnect](https://www.musedconnect.com/), a company that connects music education students with public school music teachers.
 
