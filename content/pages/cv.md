@@ -2,13 +2,22 @@ Title: CV
 Slug: cv
 Template: cv
 
+
+###Current position
+
+####Vice President of Technology
+
+#####Artusi, Inc.
+
+######2019-
+
 ###Education
 
 ####Eastman School of Music
 
 #####Ph.D. in Music Theory
 
-######2013-, Rochester, NY
+######2013-2021, Rochester, NY
 
 ####Eastman School of Music
 
@@ -36,20 +45,30 @@ Template: cv
 
 ###Conference talks
 
+####"Syncopation and Syllabic Stress in 20th-Century Popular Music"
+
+##### – 1st author with David Temperley
+
+#####Society for Music Theory
+
+######November 2021, Jacksonville, FL
+
+
+####"BachDuet: A Deep Learning System for Human-Machine Counterpoint Improvisation"
+
+##### – 2nd author with Christodoulos Benetatos and Zhiyao Duan
+
+#####International Conference on New Interfaces for Musical Expression
+
+######July 2020, Birmingham, England
+
 ####"Part-Invariant Model for Music Generation and Harmonization"
 
 ##### – 3rd author with Yujia Yan, Zhiyao Duan, and Ethan Lustig
 
 #####Annual Meeting of the International Society for Music Information Retrieval ([link](http://bit.do/music_model))
 
-
 ######August 2018, Paris, France
-
-####"Building a Web Presence"
-
-#####Eastman Leadership Academy
-
-######June 2018, 2019, Rochester, NY
 
 ####"Effects of Melody and Harmony on Contrastive Valence"
 
@@ -82,44 +101,3 @@ Template: cv
 #####Biennial Meeting of the Society for Music Perception and Cognition
 
 ######August 2013, Toronto, ON
-
-
-###Teaching
-
-####Music theory department, Eastman School of Music
-
-#####Model Composition and Tonal Analysis I-II (Intensive, TH101i-102i)
-
-######Graduate instructor, 2019-2020
-
-#####Graduate Review Theory I-II (TH117)
-
-######Graduate instructor, 2018
-
-#####Model Composition and Tonal Analysis III-IV (TH201-202)
-
-######Teaching assistant, 2016–2017
-
-#####Model Composition and Non-Tonal Analysis III-IV (TH205)
-
-######Teaching assistant, Fall 2015, 2017
-
-#####Aural Skills III-IV (TH261-262)
-
-######Teaching assistant, 2014-2015
-
-#####Model Composition and Tonal Analysis I-II (TH101-102)
-
-######Teaching assistant, 2013–2014
-
-####Institute for Music Leadership, Eastman School of Music
-
-#####Building a Web Presence (ALP211/411)
-
-######Instructor, Spring 2017, 2018, 2019
-
-####Pre-College Curriculum, University of Rochester
-
-#####Web Developer Bootcamp
-
-######Instructor, Summer 2018

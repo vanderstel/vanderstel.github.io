@@ -4,7 +4,11 @@ Slug: projects/euphony
 Category: Projects
 Summary: An online learning platform for music theory that provides real-time feedback on interactive part-writing exercises.
 
-I am currently developing a browser-based music notation editor titled *Euphony*, which is designed for SATB part writing. Users receive real-time feedback on voice-leading errors such as parallel 5ths.
+<div class="alert alert-info mt-3" role="alert">
+  NOTE: this project has been discontinued. Interested in software that can do everything that Euphony did, and much more? Head over to <a href="https://www.artusimusic.com/">Artusi</a>, a revolutionary new way to learn and teach music theory.
+</div>
+
+In 2017–2019 I developed a browser-based music notation editor titled *Euphony*, which was designed for SATB part writing. Users received real-time feedback on voice-leading errors such as parallel 5ths.
 
 [Try out a demo.](http://www.euphonytheory.com)
 
