@@ -79,6 +79,23 @@ h1 > a {
   padding: 1rem;
 }
 
+.github-mark-desktop {
+  width: 30px;
+  opacity: 0.5;
+
+}
+
+.github-mark-mobile {
+  width: 30px;
+  opacity: 0.9;
+  filter: invert(1);
+}
+
+.github-mark-desktop:hover, .github-mark-mobile:hover {
+  opacity: 1;
+}
+
+
 .nav-item {
   margin-top: 30px;
   font-size: 20px;
