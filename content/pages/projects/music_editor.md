@@ -10,8 +10,6 @@ Summary: An online learning platform for music theory that provides real-time fe
 
 In 2017–2019 I developed a browser-based music notation editor titled *Euphony*, which was designed for SATB part writing. Users received real-time feedback on voice-leading errors such as parallel 5ths.
 
-[Try out a demo.](http://www.euphonytheory.com)
-
 <p>What follows is a brief technical description of the app.</p>
 
 <h3 class="mt-5">User interface</h3>

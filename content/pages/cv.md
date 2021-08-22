@@ -51,7 +51,7 @@ Template: cv
 
 #####Society for Music Theory
 
-######November 2021, Jacksonville, FL
+######November 2021 (virtual)
 
 
 ####"BachDuet: A Deep Learning System for Human-Machine Counterpoint Improvisation"

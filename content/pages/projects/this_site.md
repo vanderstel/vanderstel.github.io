@@ -4,12 +4,10 @@ Slug: projects/this-site
 Category: Projects
 Summary: How I built it.
 
-I wanted this site to be as simple as possible. This reflects in the site's minimal design, as well as the tech stack I chose to get the job done.
+Static site generator: [*Pelican*](http://docs.getpelican.com/en/stable/)
 
-I love Python, so I chose [*Pelican*](http://docs.getpelican.com/en/stable/) as my static site generator. 
+Hosting: [*GitHub Pages*](https://pages.github.com/)
 
-The site is hosted for free on [*GitHub Pages*](https://pages.github.com/). Updates to the site are immediately live when I push my code to [the site repo](https://github.com/vanderstel/vanderstel.github.io).
+Form back end: [*Formspree*](https://formspree.io/)
 
-The form back end is set up with [*Formspree*](https://formspree.io/).
-
-I used [*Bootstrap 4*](https://getbootstrap.com/) as my front end framework.
+Front-end framework: [*Bootstrap 4*](https://getbootstrap.com/)
