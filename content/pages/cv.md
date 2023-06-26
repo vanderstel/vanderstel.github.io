@@ -38,12 +38,21 @@ Template: cv
 
 ##### - 2nd author with Elizabeth West Marvin, and Joseph Chi-Sing Siu
 
-##### Psychology of Music ([link](http://bit.do/ap_music))
+##### Psychology of Music (<a href="/pdfs/marvin_2019.pdf" target=_blank>link</a>)
 
 ###### 2019
 
 
 ###Conference talks
+
+####"The Evolution of Syncopation in 20th-Century Popular Music"
+
+##### – 1st author with David Temperley
+
+#####Rhythm in Music since 1900 Conference
+
+######September 2023 (Montreal, Quebec)
+
 
 ####"Syncopation and Syllabic Stress in 20th-Century Popular Music"
 
@@ -58,15 +67,16 @@ Template: cv
 
 ##### – 2nd author with Christodoulos Benetatos and Zhiyao Duan
 
-#####International Conference on New Interfaces for Musical Expression
+#####International Conference on New Interfaces for Musical Expression (<a href="/pdfs/benetatos_2020.pdf" target=_blank>link</a>)
 
 ######July 2020, Birmingham, England
+
 
 ####"Part-Invariant Model for Music Generation and Harmonization"
 
 ##### – 3rd author with Yujia Yan, Zhiyao Duan, and Ethan Lustig
 
-#####Annual Meeting of the International Society for Music Information Retrieval ([link](http://bit.do/music_model))
+#####Annual Meeting of the International Society for Music Information Retrieval (<a href="/pdfs/yan_2018.pdf" target=_blank>link</a>)
 
 ######August 2018, Paris, France
 
