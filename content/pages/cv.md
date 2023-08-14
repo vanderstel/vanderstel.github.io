@@ -34,6 +34,14 @@ Template: cv
 
 ###Publications
 
+####"The evolution of syncopation in twentieth-century American popular music"
+
+##### - 1st author with David Temperley
+
+##### Journal of New Music Research (<a href="https://www.tandfonline.com/doi/full/10.1080/09298215.2023.2223583" target=_blank>link</a>)
+
+###### 2022
+
 ####"In their own words: Analyzing the extents and origins of absolute pitch"
 
 ##### - 2nd author with Elizabeth West Marvin, and Joseph Chi-Sing Siu
