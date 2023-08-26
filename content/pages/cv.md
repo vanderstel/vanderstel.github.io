@@ -38,7 +38,7 @@ Template: cv
 
 ##### - 1st author with David Temperley
 
-##### Journal of New Music Research (<a href="https://www.tandfonline.com/doi/full/10.1080/09298215.2023.2223583" target=_blank>link</a>)
+##### Journal of New Music Research (<a href="/pdfs/vanderstel_temperley_2022.pdf" target=_blank>PDF</a>)
 
 ###### 2022
 
@@ -46,7 +46,7 @@ Template: cv
 
 ##### - 2nd author with Elizabeth West Marvin, and Joseph Chi-Sing Siu
 
-##### Psychology of Music (<a href="/pdfs/marvin_2019.pdf" target=_blank>link</a>)
+##### Psychology of Music (<a href="/pdfs/marvin_2019.pdf" target=_blank>PDF</a>)
 
 ###### 2019
 
@@ -75,7 +75,7 @@ Template: cv
 
 ##### – 2nd author with Christodoulos Benetatos and Zhiyao Duan
 
-#####International Conference on New Interfaces for Musical Expression (<a href="/pdfs/benetatos_2020.pdf" target=_blank>link</a>)
+#####International Conference on New Interfaces for Musical Expression (<a href="/pdfs/benetatos_2020.pdf" target=_blank>PDF</a>)
 
 ######July 2020, Birmingham, England
 
@@ -84,7 +84,7 @@ Template: cv
 
 ##### – 3rd author with Yujia Yan, Zhiyao Duan, and Ethan Lustig
 
-#####Annual Meeting of the International Society for Music Information Retrieval (<a href="/pdfs/yan_2018.pdf" target=_blank>link</a>)
+#####Annual Meeting of the International Society for Music Information Retrieval (<a href="/pdfs/yan_2018.pdf" target=_blank>PDF</a>)
 
 ######August 2018, Paris, France
 
