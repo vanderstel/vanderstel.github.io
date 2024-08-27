@@ -92,23 +92,15 @@
 <p>What follows is a brief technical description of the app.</p>
 
 <h3 class="mt-5">User interface</h3>
-
 <p>Euphony is built with <a href="https://reactjs.org/">React</a>.</p>
-
 <p>Declarative routing is handled with <a href="https://reacttraining.com/react-router/">React Router</a>.</p>
-
 <p>The editor itself is built with <a href="https://github.com/0xfe/vexflow/wiki/The-VexFlow-Tutorial">Vexflow</a>, which renders notation using <a href="https://developer.mozilla.org/en-US/docs/Web/SVG">Scalable Vector Graphics (SVG)</a>. Vexflow is also responsible for overlaying analytical feedback on the score.</p>
 
 <h3 class="mt-5">State</h3>
-
 <p>Global state is managed by <a href="https://redux.js.org/">Redux</a>.</p>
-
 <p>The most commonly dispatched Redux action types within the editor include <code>ADD_NOTE</code>, <code>CHANGE_EVENT_DURATION</code>, and so on.</p>
-
 <p>As I developed Euphony I had to think about the most concise way to represent chords, keys, notes and other musical objects, as well as their interrelationships.</p>
-
 <p>This led to a <i>minimal state representation</i> for each object. For example, notes in Euphony have the following signature:</p>
-
 <pre><code>
   note = {
     id,
@@ -120,13 +112,10 @@
     tied        // is tied (boolean)
   }
 </code></pre>
-
 <p>Other data are <i>derived</i> from this minimal state, such as a note's accidental, octave, offset, the measure it is located in, and so on.</p>
-
 <p>All musical objects are stored in Redux as plain JavaScript objects, and relationships between musical objects are normalized.</p>
 
 <h3 class="mt-5">Sound</h3>
-
 <p>Sound is loaded and managed via the <a href="https://developer.mozilla.org/en-US/docs/Web/API/Web_Audio_API">Web Audio API</a>.</p>
 
 <h3>Screenshots</h3>
